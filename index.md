@@ -18,3 +18,4 @@ Lab 4, both parts also had the same concept as lab 3 with the unit conversion bu
 
 Lab 8, part 1 involved creating a pattern using loops which in turn allowed us to create a small image through code. I liked the creativity and uniqueness of the first part and allowing us to code our own pictures/drawings. The second part was terrible though I hated doing all that troubleshooting with the loops. It was easier making pictures with the loops than actual mathematical functions.
 
+i love computer science !
